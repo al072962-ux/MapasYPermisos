@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="MapasYPermisos" xmlns="http://www.topografix.com/GPX/1/1">
+    <!-- Puntos simulados para comprobar actualizaciones. No son lecturas reales. -->
+    <wpt lat="19.847707" lon="-90.476276"><name>Inicio</name><time>2026-10-07T12:00:00Z</time></wpt>
+    <wpt lat="19.848000" lon="-90.476000"><name>Punto 2</name><time>2026-10-07T12:00:05Z</time></wpt>
+    <wpt lat="19.848300" lon="-90.475700"><name>Punto 3</name><time>2026-10-07T12:00:10Z</time></wpt>
+    <wpt lat="19.848600" lon="-90.475400"><name>Punto 4</name><time>2026-10-07T12:00:15Z</time></wpt>
+    <wpt lat="19.848900" lon="-90.475100"><name>Fin</name><time>2026-10-07T12:00:20Z</time></wpt>
+</gpx>
